@@ -24,5 +24,5 @@ for i, student in enumerate(Students):
 
 attendance
 
-# perubahan khairunnisa 
+# perubahan nur amalia puspita 
 # tugas python 1 day 2 / dibimbing.id
